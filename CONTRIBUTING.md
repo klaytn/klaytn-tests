@@ -18,7 +18,6 @@ There are various ways to contribute and participate. Please read the guidelines
 
 -   [Issues and Bugs](#issues-and-bugs)
 -   [Feature Requests](#feature-requests)
--   [Code Contribution](#code-contribution)
 
 ### Issues and Bugs
 
