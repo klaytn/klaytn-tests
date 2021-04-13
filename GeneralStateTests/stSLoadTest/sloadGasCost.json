@@ -17,17 +17,6 @@
             "previousHash" : "0x5e20a0453cecd065ea59c37ac63e079ee08998b6045136a8ce6635c7912ec0b6"
         },
         "post" : {
-            "Byzantium" : [
-                {
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "hash" : "0xc85ad1bf7eb936b237602f5f64995dd499e99ecbdf619ff238602357f2ca6f8d",
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
             "Constantinople" : [
                 {
                     "indexes" : {
@@ -39,61 +28,6 @@
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
             ],
-            "ConstantinopleFix" : [
-                {
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "hash" : "0xc85ad1bf7eb936b237602f5f64995dd499e99ecbdf619ff238602357f2ca6f8d",
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
-            "EIP150" : [
-                {
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "hash" : "0xc85ad1bf7eb936b237602f5f64995dd499e99ecbdf619ff238602357f2ca6f8d",
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
-            "EIP158" : [
-                {
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "hash" : "0xc85ad1bf7eb936b237602f5f64995dd499e99ecbdf619ff238602357f2ca6f8d",
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
-            "Frontier" : [
-                {
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "hash" : "0x118b5fad5ddd51823bca3079d1e7351dfe1ed0a01c30c5c7e4a49c499389e716",
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
-            "Homestead" : [
-                {
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "hash" : "0x118b5fad5ddd51823bca3079d1e7351dfe1ed0a01c30c5c7e4a49c499389e716",
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
             "Istanbul" : [
                 {
                     "indexes" : {
@@ -101,7 +35,7 @@
                         "gas" : 0,
                         "value" : 0
                     },
-                    "hash" : "0xe9e3795e916b9ee682f9b05bcd0e6857a76b6835a4061229c3a38e936537f313",
+                    "hash" : "0x7c00ac70281c351c9dfc6858b4937914b2205b0c8f3c264bb6d5275b88196193",
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
             ]
