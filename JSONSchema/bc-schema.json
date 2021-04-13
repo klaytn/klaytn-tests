@@ -289,6 +289,9 @@
                 "genesisRLP": {
                     "$ref": "#/definitions/ConfusedHexType"
                 },
+                "postStateHash": {
+                    "$ref": "#/definitions/ConfusedHexType"
+                },
                 "postState": {
                     "patternProperties": {
                         "^0x[0-9a-f]*": {
@@ -307,7 +310,6 @@
                 }
             },
             "required": [
-                "postState",
                 "pre",
                 "network",
                 "lastblockhash",
