@@ -229,6 +229,9 @@
                         },
                         "Homestead": {
                             "$ref": "#/definitions/TransactionResults"
+                        },
+                        "Istanbul": {
+                            "$ref": "#/definitions/TransactionResults"
                         }
                     },
                     "type": "object"
