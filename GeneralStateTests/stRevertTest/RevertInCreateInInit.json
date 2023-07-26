@@ -26,6 +26,17 @@
                     },
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
+            ],
+            "Shanghai" : [
+                {
+                    "hash" : "0x3b122f91faf5b52ca443d064571ffab7dc8ad602ce9bcd49aa57e076805f14e6",
+                    "indexes" : {
+                        "data" : 0,
+                        "gas" : 0,
+                        "value" : 0
+                    },
+                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
+                }
             ]
         },
         "pre" : {
