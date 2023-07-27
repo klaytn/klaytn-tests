@@ -18,7 +18,7 @@
         "post" : {
             "Byzantium" : [
                 {
-                    "hash" : "0x33b8f7d6da70a82cc0169caa5cc8bcc8036aa42ad2566e16c18e76a95708659d",
+                    "hash" : "0x67cdc0fe66071b9a12adc45aa96dac0dc4ee4551b3d3d3f1b444040b45d70a1a",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
