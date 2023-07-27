@@ -18,7 +18,7 @@
         "post" : {
             "Byzantium" : [
                 {
-                    "hash" : "0xb8277ac29186736e5312ae2d785cc3e24f95300e50c4ebf6531bf265f07235a9",
+                    "hash" : "0xf4f23e8d0a713d39ad3e9ca3ce350eb61c10810e41759621baf1ad90f786f961",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
@@ -30,6 +30,17 @@
             "Constantinople" : [
                 {
                     "hash" : "0xc2ea011c70b9915217b5443a28ce2e2831ae80d401946d58b5b6cb98c14a5786",
+                    "indexes" : {
+                        "data" : 0,
+                        "gas" : 0,
+                        "value" : 0
+                    },
+                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
+                }
+            ],
+            "Shanghai" : [
+                {
+                    "hash" : "0x9acb33eeab935ad3f21b9071f78f51c776acea02a71dc00f02f504483ad27d26",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
